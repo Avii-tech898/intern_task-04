@@ -1,4 +1,6 @@
 Customer & Sales Analysis with SQL
+
+
 Purpose
 
 This project demonstrates how to analyze customer, order, and product data using SQL. By applying JOINs and aggregations, it calculates important business metrics such as product revenue, category performance, and regional sales.
